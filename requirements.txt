@@ -1,0 +1,9 @@
+asyncio==3.4.3
+PySocks==1.7.1
+Telethon==1.29.3
+TwoCaptcha==0.0.1
+art==6.1
+colorama==0.4.6
+pathlib
+opencv-python
+2captcha-python==1.2.1
